@@ -2,9 +2,31 @@
 
 Hash Map Implementation:  hash_map.py
 
-This hash map uses a hash table of buckets (dynamic array), each containing a linked list of hash links to resolve collisions. Each hash link stores the key-value pair (string and object) and a pointer to the next link in the list. 
+This hash map uses a hash table of buckets (dynamic array), each containing a linked list of hash links to resolve collisions. Each hash link stores the key-value pair (string and object) and a pointer to the next link in the list.
 
 ![ScreenShot1](https://github.com/salleya/Hash_and_Heap/blob/master/ScreenShot1.png)
+
+Includes the following methods:
+
+put()
+
+get()
+
+remove()
+
+contains_key()
+
+clear()
+
+empty_buckets()
+
+resize_table()
+
+table_load()
+
+get_keys()
+
+
 
 Min Heap Implementation:  min_heap.py
 
