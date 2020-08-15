@@ -17,7 +17,7 @@ Includes the following methods:
 - table_load()
 - get_keys()
 
-\
+
 ## Min Heap Implementation:  min_heap.py
 
 This min heap uses a dynamic array to implement a complete binary tree heap. The value in each internal node is smaller than or equal to the values of that node’s children.  
