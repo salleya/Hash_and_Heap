@@ -34,14 +34,14 @@ Includes the following methods:
 
 ## Singly Linked List and Dynamic Array "helper" data structures: sll_and_da_include.py
 
-**Linked List** methods include:
+**Linked List** includes the following methods:
 - insert()
 - remove()
 - contains()
 - length()
 - \__iter()__
 
-**Dynamic Array** methods include:
+**Dynamic Array** includes the following methods:
 - append()
 - pop()
 - swap()
