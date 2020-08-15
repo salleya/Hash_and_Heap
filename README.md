@@ -9,21 +9,13 @@ This hash map uses a hash table of buckets (dynamic array), each containing a li
 Includes the following methods:
 
 - put()
-
 - get()
-
 - remove()
-
 - contains_key()
-
 - clear()
-
 - empty_buckets()
-
 - resize_table()
-
 - table_load()
-
 - get_keys()
 
 
