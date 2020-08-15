@@ -39,7 +39,7 @@ Includes the following methods:
 - remove()
 - contains()
 - length()
-- __iter()__
+- \__iter()__
 
 **Dynamic Array** methods include:
 - append()
