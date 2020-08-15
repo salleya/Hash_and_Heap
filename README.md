@@ -7,7 +7,6 @@ This hash map uses a hash table of buckets (dynamic array), each containing a li
 ![ScreenShot1](https://github.com/salleya/Hash_and_Heap/blob/master/ScreenShot1.png)
 
 Includes the following methods:
-
 - put()
 - get()
 - remove()
@@ -18,8 +17,7 @@ Includes the following methods:
 - table_load()
 - get_keys()
 
-
-
+\
 ## Min Heap Implementation:  min_heap.py
 
 This min heap uses a dynamic array to implement a complete binary tree heap. The value in each internal node is smaller than or equal to the values of that node’s children.  
@@ -28,13 +26,9 @@ This min heap uses a dynamic array to implement a complete binary tree heap. The
 ![ScreenShot1](https://github.com/salleya/Hash_and_Heap/blob/master/ScreenShot3.png)
 
 Includes the following methods:
-
 - add()
-
 - get_min()
-
 - remove_min()
-
 - build_heap()
 
 
