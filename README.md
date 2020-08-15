@@ -32,4 +32,19 @@ Includes the following methods:
 - build_heap()
 
 
-### Singly Linked List and Dynamic Array "helper" data structures included in sll_and_da_include.py
+## Singly Linked List and Dynamic Array "helper" data structures: sll_and_da_include.py
+
+**Linked List** methods include:
+- insert()
+- remove()
+- contains()
+- length()
+- __iter()__
+
+**Dynamic Array** methods include:
+- append()
+- pop()
+- swap()
+- get_at_index()
+- set_at_index()
+- length()
