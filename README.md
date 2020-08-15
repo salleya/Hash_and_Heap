@@ -8,23 +8,23 @@ This hash map uses a hash table of buckets (dynamic array), each containing a li
 
 Includes the following methods:
 
-put()
+- put()
 
-get()
+- get()
 
-remove()
+- remove()
 
-contains_key()
+- contains_key()
 
-clear()
+- clear()
 
-empty_buckets()
+- empty_buckets()
 
-resize_table()
+- resize_table()
 
-table_load()
+- table_load()
 
-get_keys()
+- get_keys()
 
 
 
@@ -37,13 +37,13 @@ This min heap uses a dynamic array to implement a complete binary tree heap. The
 
 Includes the following methods:
 
-add()
+- add()
 
-get_min()
+- get_min()
 
-remove_min()
+- remove_min()
 
-build_heap()
+- build_heap()
 
 
-**Singly Linked List and Dynamic Array "helper" data structures included in** sll_and_da_include.py
+**Singly Linked List and Dynamic Array "helper" data structures included in sll_and_da_include.py**
